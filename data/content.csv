@@ -1,0 +1,16 @@
+content_id,title,type,category,tags,author,publish_date,popularity_score
+1,Machine Learning Basics,article,technology,"AI, beginner, tutorial",TechExpert,2023-01-10,85
+2,Top 10 Travel Destinations,article,travel,"vacation, summer, guides",TravelGuru,2023-02-05,78
+3,Healthy Breakfast Ideas,article,food,"health, recipes, nutrition",FoodLover,2023-01-20,92
+4,Introduction to Python,video,technology,"programming, beginner, tutorial",CodeMaster,2023-02-15,88
+5,Latest Smartphone Review,video,technology,"gadgets, review, comparison",TechReviewer,2023-03-01,75
+6,Summer Fashion Trends,article,fashion,"style, clothing, seasonal",FashionPro,2023-02-12,82
+7,Fitness at Home,video,health,"workout, exercise, wellness",FitCoach,2023-01-25,90
+8,New Electric Car Launch,ad,automotive,"electric, vehicle, eco-friendly",CarBrand,2023-03-10,70
+9,Streaming Service Discount,ad,entertainment,"movies, series, discount",StreamCo,2023-02-28,65
+10,Financial Planning Tips,article,finance,"investing, saving, retirement",FinancePro,2023-01-15,80
+11,Natural Makeup Tutorial,video,beauty,"cosmetics, organic, tutorial",BeautyGuru,2023-02-20,87
+12,Premium Headphones Sale,ad,technology,"audio, discount, gadgets",AudioTech,2023-03-05,68
+13,Plant-Based Diet Guide,article,food,"vegan, nutrition, recipes",HealthExpert,2023-01-30,83
+14,Web Development Course,video,technology,"coding, career, learning",WebDev,2023-02-10,89
+15,Luxury Watch Collection,ad,fashion,"accessories, premium, luxury",WatchBrand,2023-03-15,72

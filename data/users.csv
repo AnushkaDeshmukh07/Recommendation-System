@@ -1,0 +1,11 @@
+user_id,username,age,gender,location,signup_date
+1,user001,28,M,New York,2023-01-15
+2,user002,35,F,San Francisco,2023-02-10
+3,user003,42,M,Chicago,2023-01-22
+4,user004,24,F,Miami,2023-03-05
+5,user005,31,M,Seattle,2023-02-18
+6,user006,29,F,Boston,2023-01-30
+7,user007,45,M,Denver,2023-03-12
+8,user008,33,F,Los Angeles,2023-02-25
+9,user009,27,M,Austin,2023-01-18
+10,user010,39,F,Portland,2023-03-08
